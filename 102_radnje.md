@@ -662,3 +662,5 @@ implicitno primaju tu vrijednost kao prvi parametar.
     univerzalna.
 
 [^4]: koja je tehnički gledano operator
+
+Patrik Purgar
